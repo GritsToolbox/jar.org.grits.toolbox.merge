@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="src.test"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.12.jar"/>
 	<classpathentry kind="lib" path="lib/GRITS.ms.om-0.1-b225.jar"/>
 	<classpathentry kind="lib" path="lib/GRITS.ms.annotation-0.1-b571.jar"/>
